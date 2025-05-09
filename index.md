@@ -213,4 +213,4 @@ Some features of the App may be released as beta or experimental. These features
 
 ✅ 24. Contact Us
 If you have any questions or concerns about these Terms, please contact us at:
-📧 support@beastapp.com
+📧 supports@beastapp.com
